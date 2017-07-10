@@ -1,7 +1,7 @@
 {
   "name": "yarn-diff",
   "version": "1.0.0",
-  "description": "",
+  "description": "output updated packages for two different git commits.",
   "preferGlobal": true,
   "bin": {
     "yarn-diff": "main.js"
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Koishi Masato",
+  "author": "Masato Koishi",
   "license": "MIT",
   "repository": {
     "type": "git",
